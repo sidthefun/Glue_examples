@@ -24,7 +24,7 @@ dynamic_frame_0 = glueContext.create_dynamic_frame_from_options(
     }
 )
 
-# Show / log the records from the dynamic frame. Confirming the read was successful
+# Show / log the records from the dynamic frame. Confirming the read was successfull
 dynamic_frame_0.show()
 
 job.commit()
